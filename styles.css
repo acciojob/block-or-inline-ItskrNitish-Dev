@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 8px;
+}
+
+code {
+    background-color: #f0f0f0;
+}
+
+cite {
+    font-style: italic;
+}
